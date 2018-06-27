@@ -22,8 +22,8 @@
       <file leaf-file-name="bluebird.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/bluebird.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="89" selection-start-line="3" selection-start-column="89" selection-end-line="3" selection-end-column="89" />
+            <state relative-caret-position="120">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -216,7 +216,7 @@
       <workItem from="1527630967484" duration="6167000" />
       <workItem from="1529191373439" duration="2205000" />
       <workItem from="1530028126160" duration="22000" />
-      <workItem from="1530028168740" duration="1703000" />
+      <workItem from="1530028168740" duration="1933000" />
     </task>
     <task id="LOCAL-00001" summary="Initial committ.">
       <created>1526234142064</created>
@@ -250,7 +250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19328000" />
+    <option name="totallyTimeSpent" value="19558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="154" y="103" width="1400" height="799" extended-state="0" />
@@ -580,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/bluebird.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="89" selection-start-line="3" selection-start-column="89" selection-end-line="3" selection-end-column="89" />
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
